@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ANKIT%20ROUT&fontSize=90&color=0:ff6b00,50:1e90ff,100:00d4ff&stroke=ff6b00&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Java%20Developer&descSize=22&descAlignY=75&descColor=00d4ff" width="100%"/>
 
 <!-- TYPING ANIMATION -->
